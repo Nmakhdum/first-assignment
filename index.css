@@ -3,8 +3,11 @@ body{
 }
 h1{
     font-size:300% ;
-    border-left: rgb(126, 15, 15) solid;
+    
     padding-left: 2%;
+}
+.left-border{
+    border-left: rgb(126, 15, 15) solid;
 }
 .color-change
 { color: rgb(201, 91, 91);}
@@ -71,6 +74,10 @@ section{display: flex;}
    footer{
        text-align: center;
    }
+   .claimate{ font-size: 300%;
+    text-align: center;
+       
+}
    
    
     
